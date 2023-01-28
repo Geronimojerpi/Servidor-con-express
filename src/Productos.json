@@ -1,0 +1,50 @@
+[
+	{
+		"nombre": "Manzana",
+		"detalles": "Roja",
+		"precio": 30,
+		"codigo": "GK00",
+		"stock": 5,
+		"id": 1
+	},
+	{
+		"nombre": "Pera",
+		"detalles": "Grande",
+		"precio": 25,
+		"codigo": "TF53",
+		"stock": 3,
+		"id": 2
+	},
+	{
+		"nombre": "Manzana",
+		"detalles": "Roja",
+		"precio": 30,
+		"codigo": "GK00",
+		"stock": 5,
+		"id": 3
+	},
+	{
+		"nombre": "Pera",
+		"detalles": "Grande",
+		"precio": 25,
+		"codigo": "TF53",
+		"stock": 3,
+		"id": 4
+	},
+	{
+		"nombre": "Manzana",
+		"detalles": "Roja",
+		"precio": 30,
+		"codigo": "GK00",
+		"stock": 5,
+		"id": 5
+	},
+	{
+		"nombre": "Pera",
+		"detalles": "Grande",
+		"precio": 25,
+		"codigo": "TF53",
+		"stock": 3,
+		"id": 6
+	}
+]
